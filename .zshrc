@@ -1,4 +1,4 @@
-source ~/.bash_aliases
+source ./.bash_aliases
 export EDITOR="nvim"
 
 # colors and prompt design
