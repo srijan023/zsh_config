@@ -1,4 +1,4 @@
-source ./.bash_aliases
+source $HOME/.config/zsh/.bash_aliases
 export EDITOR="nvim"
 
 # colors and prompt design
@@ -94,6 +94,7 @@ RPROMPT='%B%F{006}$(parse_git_branch)%F{003}$(parse_git_dirty) %B%F{015}%t'
 # PROMPT="%B%F{003}"
 
 path+="/home/creatio/.cargo/bin"
+path+="/home/creatio/.local/bin"
 
 export PATH
 

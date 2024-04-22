@@ -15,4 +15,8 @@
 alias ls="exa --sort type --icons"
 alias ll="exa --long --sort type --header --icons"
 alias lt="exa --tree --level=2 --icons"
+alias ...="cd ../../"
+alias ..="cd ../"
+alias jl="jupyter lab"
+
 alias wezterm="wezterm.exe"
